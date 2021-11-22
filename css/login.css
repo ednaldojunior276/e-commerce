@@ -1,0 +1,58 @@
+body
+{
+    background-color: #FFEBEE;
+
+}
+
+#login
+{
+    width: 350px;
+}
+#senha
+{
+    width: 350px;
+}
+.login
+{
+
+    padding: 10px;
+
+
+}
+section
+{
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 1px solid white;
+    box-shadow: 1px 2px 3px black;
+    background-color: #F8BBD0;
+    padding: 25px;
+    border-radius: 10px 0px 10px 0px;
+}
+
+
+button
+{
+    width: 250px; 
+  
+}
+p
+{
+    text-align: center;
+}
+label
+{
+    color: black;
+}
+a
+{
+    color: black;
+    text-decoration: none;
+}
+a:hover
+{
+    color: black;
+}

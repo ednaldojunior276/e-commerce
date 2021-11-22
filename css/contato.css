@@ -1,0 +1,68 @@
+body
+{
+    background-color: #FFEBEE;
+}
+#cont
+{
+  position: absolute;
+  top: 120px;
+  border: 1px solid white;
+  box-shadow: 1px 2px 3px black;
+  background-color: white;
+  margin-left: 20%;
+}
+#n
+{
+    text-transform: uppercase;
+    font-size: 20pt;
+}
+h2
+{
+    margin: 10px;
+}
+.div1
+{
+float: left;
+padding: 80px;
+
+
+
+}
+.div2
+{
+
+  float: right;
+  padding: 80px;
+
+
+}
+
+#nome
+{
+  width: 400px;  
+}
+#email
+{
+
+}
+.textar
+{
+    width: 400px;  
+    height: 150px;
+}
+button
+{
+    width: 200px;
+}
+.slogan
+{
+    text-align: center;
+    color: black;
+
+}
+
+header
+{
+    background-color:#F8BBD0;
+    height: 176px;
+}

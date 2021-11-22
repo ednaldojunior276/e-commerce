@@ -1,0 +1,35 @@
+body
+{
+    background-color: #FFEBEE;
+
+}
+
+#btn
+{
+    width: 500pt;
+    text-align: center;
+    border-radius: 10px 10px 10px 10px;
+}
+.centro
+{
+    
+    text-align: center;
+    margin: 150px auto;  
+    padding: 20px;
+
+}
+section
+{
+ 
+    background-color: #F8BBD0;
+
+}
+p
+{
+
+    font-size: 80pt;
+    text-transform: uppercase;
+    font-style: oblique;
+    font-family: fantasy;
+    color:black;
+}

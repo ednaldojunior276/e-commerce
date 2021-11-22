@@ -1,0 +1,148 @@
+body
+{
+    background-color: #FFEBEE;
+    
+   
+    
+}
+.div01
+{
+    display: inline-block;
+    border: 1px solid white;
+    box-shadow: 1px 1px 2px black;
+    padding: 15px;
+    margin: 10px;
+    background-color: white;
+    height: 620px;
+
+
+}
+
+
+.div02
+{
+    display: inline-block;
+    border: 1px solid white;
+    box-shadow: 1px 1px 2px black;
+    padding: 15px;
+    margin: 10px;
+    background-color: white;
+    height: 620px
+}
+.div03
+{
+    display: inline-block;
+    border: 1px solid white;
+    box-shadow: 1px 1px 2px black;
+    padding: 15px;
+    margin: 10px;
+    background-color: white;
+    height: 620px;
+}
+.div04
+{
+    display: inline-block;
+    border: 1px solid white;
+    box-shadow: 1px 1px 2px black;
+    padding: 15px;
+    margin: 10px;
+    background-color: white;
+    height: 620px;
+}
+.div05
+{
+    display: inline-block;
+    border: 1px solid white;
+    box-shadow: 1px 1px 2px black;
+    padding: 15px;
+    margin: 10px;
+    background-color: white;
+    height: 620px;
+}
+img
+{
+    width: 250px;
+    height: 250px;
+}
+#imagem
+{
+    border: 1px solid white;
+    padding: 5px;
+    box-shadow: 1px 1px 2px black;
+    
+   
+}
+
+
+#select01
+{
+    width: 100px;
+
+
+}
+aside
+{
+    margin: 10px;
+   float: left;
+    
+}
+.asidecont
+{
+    margin: 10px;
+}
+section
+{
+ text-align: center;
+margin: 30px;
+   
+}
+#asidegeral
+{
+    background-color: white;
+    border: 1px solid white;
+    box-shadow: 1px 1px 2px black;
+    height: 400px;
+    width: 300px;
+   
+}
+.des
+{
+  
+}
+a{
+    color: black;
+    
+}
+a:hover
+{
+    color: black;
+}
+
+#ft01
+{
+    display: inline-block;
+    padding: 100px;
+   color: #ECEFF1;
+
+}
+footer
+{
+    text-align: center;
+    background-color: black;
+    border-radius: 10px 10px 0px 0px;
+  
+}
+.ppp
+{
+    text-align: left;
+}
+.pp
+{
+    text-align: center;
+ 
+}
+
+ li
+{
+    list-style: none;
+}

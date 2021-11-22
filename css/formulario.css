@@ -1,0 +1,36 @@
+body
+{
+   background-color: #FFEBEE;
+}
+.pai
+{ 
+    position: absolute;
+    text-align: center;
+    left: 100px;
+    margin: 80px auto;
+    background-color: white;
+
+}
+.filho
+{
+
+    padding: 50px;
+    border: 1px solid white;
+    box-shadow: 1px 1px 1px 1px black;
+    height: 400px;
+  
+
+}
+button
+{
+    width: 250px;
+
+}
+input
+{
+    width: 200px;
+}
+#entrada
+{
+   width: 500px;
+}
